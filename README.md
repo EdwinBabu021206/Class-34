@@ -1,2 +1,2 @@
-# Class-34
-synchronsballmovement and real time database
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
